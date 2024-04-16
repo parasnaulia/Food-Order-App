@@ -4,7 +4,8 @@
   "description": "This is Swiggy App",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "npx parcel public/index.html"
+    "dev": "npx parcel public/index.html",
+    "build":"parcel src/index.html"
   },
   "author": "Paras Naulia",
   "license": "ISC",
